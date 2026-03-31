@@ -1,6 +1,6 @@
 module gwim-test
 
-go 1.25.5
+go 1.25
 
 require github.com/akennis/gwim v0.1.0
 
